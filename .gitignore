@@ -19,3 +19,8 @@ local.properties
 # OS
 .DS_Store
 Thumbs.db
+
+# Flutter / iOS / macOS generated
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+**/GeneratedPluginRegistrant.*
