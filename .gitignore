@@ -24,3 +24,16 @@ Thumbs.db
 ios/Flutter/ephemeral/
 macos/Flutter/ephemeral/
 **/GeneratedPluginRegistrant.*
+
+# Next.js
+.next/
+
+# Flutter / Dart
+.dart_tool/
+*.dill
+
+# Build caches
+.cache/
+build/
+dist/
+**/build/
