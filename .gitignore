@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Build folders
+build/
+dist/
+**/build/
+
+# Android / Flutter
+.gradle/
+local.properties
+*.apk
+*.aab
+**/.transforms/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
