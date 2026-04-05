@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +44,44 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+# Node
+node_modules/
+
+# Build folders
+build/
+dist/
+**/build/
+
+# Android / Flutter
+.gradle/
+local.properties
+*.apk
+*.aab
+**/.transforms/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter / iOS / macOS generated
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+**/GeneratedPluginRegistrant.*
+
+# Next.js
+.next/
+
+# Flutter / Dart
+.dart_tool/
+*.dill
+
+# Build caches
+.cache/
+build/
+dist/
+**/build/
+>>>>>>> 41fe2331d79a8eaf70b9c45fac448707670c6a22
